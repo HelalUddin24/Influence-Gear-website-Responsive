@@ -162,7 +162,7 @@ button a{
     }
     .z-index-1{
         position: absolute;
-        bottom: 140px;
+        bottom: 40px;
         right: 150px;
         left: 140px;
         z-index: -1;
